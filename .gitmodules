@@ -1,3 +1,0 @@
-[submodule "librsync-sys/librsync"]
-	path = librsync-sys/librsync
-	url = ../librsync-with-gen
