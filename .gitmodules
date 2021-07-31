@@ -1,3 +1,4 @@
 [submodule "librsync-sys/librsync"]
 	path = librsync-sys/librsync
-	url = ../librsync-with-gen
+	url = https://github.com/JakeOShannessy/librsync.git
+	branch = static_config
